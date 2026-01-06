@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekRReddy
-- 👀 I’m interested in Mechanical Engineering and programming.
+- 👀 I’m interested in Mechanical Engineering and Deep Learning
 - 🌱 I’m currently practicing Python
 - 💞️ I’m looking to collaborate on Projects related to Python
 - 📫 How to reach me ...- You can mailto: thearreddy@gmail.com
